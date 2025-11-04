@@ -1,0 +1,36 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.hamid.voicecopilot"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->/data/data/com.termux/files/home/voicecopilot/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="19" />
+9-->/data/data/com.termux/files/home/voicecopilot/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/data/data/com.termux/files/home/voicecopilot/app/src/main/AndroidManifest.xml:4:5-13:19
+12        android:debuggable="true"
+13        android:icon="@mipmap/ic_launcher"
+13-->/data/data/com.termux/files/home/voicecopilot/app/src/main/AndroidManifest.xml:6:9-43
+14        android:label="VoiceCopilot" >
+14-->/data/data/com.termux/files/home/voicecopilot/app/src/main/AndroidManifest.xml:5:9-37
+15        <activity android:name="com.hamid.voicecopilot.MainActivity" >
+15-->/data/data/com.termux/files/home/voicecopilot/app/src/main/AndroidManifest.xml:7:9-12:20
+15-->/data/data/com.termux/files/home/voicecopilot/app/src/main/AndroidManifest.xml:7:19-47
+16            <intent-filter>
+16-->/data/data/com.termux/files/home/voicecopilot/app/src/main/AndroidManifest.xml:8:13-11:29
+17                <action android:name="android.intent.action.MAIN" />
+17-->/data/data/com.termux/files/home/voicecopilot/app/src/main/AndroidManifest.xml:9:17-69
+17-->/data/data/com.termux/files/home/voicecopilot/app/src/main/AndroidManifest.xml:9:25-66
+18
+19                <category android:name="android.intent.category.LAUNCHER" />
+19-->/data/data/com.termux/files/home/voicecopilot/app/src/main/AndroidManifest.xml:10:17-77
+19-->/data/data/com.termux/files/home/voicecopilot/app/src/main/AndroidManifest.xml:10:27-74
+20            </intent-filter>
+21        </activity>
+22    </application>
+23
+24</manifest>

@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/data/data/com.termux/files/home/voicecopilot/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.termux/files/home/voicecopilot/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,106",
+                        "endColumns": "49,52",
+                        "endOffsets": "101,154"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,105",
+                        "endColumns": "49,52",
+                        "endOffsets": "100,153"
+                    }
+                },
+                {
+                    "source": "/data/data/com.termux/files/home/voicecopilot/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "9",
+                        "endOffsets": "129"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "158",
+                        "endLines": "5",
+                        "endColumns": "9",
+                        "endOffsets": "232"
+                    }
+                }
+            ]
+        }
+    ]
+}
